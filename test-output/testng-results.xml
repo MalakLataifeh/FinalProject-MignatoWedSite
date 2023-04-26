@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-20T22:29:10 GST" name="Default suite" finished-at="2023-03-20T22:37:53 GST" duration-ms="523542">
+    <groups>
+    </groups>
+    <test started-at="2023-03-20T22:29:10 GST" name="Default test" finished-at="2023-03-20T22:37:53 GST" duration-ms="523542">
+      <class name="myTest">
+        <test-method is-config="true" signature="mysetup()[pri:0, instance:myTest@68105edc]" started-at="2023-03-20T22:29:10 GST" name="mysetup" finished-at="2023-03-20T22:29:13 GST" duration-ms="3450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mysetup -->
+        <test-method signature="signUp()[pri:1, instance:myTest@68105edc]" started-at="2023-03-20T22:29:13 GST" name="signUp" finished-at="2023-03-20T22:29:24 GST" duration-ms="10228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUp -->
+        <test-method signature="RandomItemSearch()[pri:2, instance:myTest@68105edc]" started-at="2023-03-20T22:29:24 GST" name="RandomItemSearch" finished-at="2023-03-20T22:29:25 GST" duration-ms="1506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RandomItemSearch -->
+        <test-method signature="HotSellersItems()[pri:3, instance:myTest@68105edc]" started-at="2023-03-20T22:29:25 GST" name="HotSellersItems" finished-at="2023-03-20T22:31:44 GST" duration-ms="139258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HotSellersItems -->
+        <test-method signature="CheckoutTest()[pri:4, instance:myTest@68105edc]" started-at="2023-03-20T22:31:44 GST" name="CheckoutTest" finished-at="2023-03-20T22:32:35 GST" duration-ms="50156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckoutTest -->
+        <test-method signature="PLACEORDER()[pri:5, instance:myTest@68105edc]" started-at="2023-03-20T22:32:35 GST" name="PLACEORDER" finished-at="2023-03-20T22:33:08 GST" duration-ms="33773" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PLACEORDER -->
+        <test-method signature="ReOrder()[pri:6, instance:myTest@68105edc]" started-at="2023-03-20T22:33:08 GST" name="ReOrder" finished-at="2023-03-20T22:37:27 GST" duration-ms="258377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReOrder -->
+        <test-method signature="CheckTheOrdersPrices()[pri:7, instance:myTest@68105edc]" started-at="2023-03-20T22:37:27 GST" name="CheckTheOrdersPrices" finished-at="2023-03-20T22:37:53 GST" duration-ms="26710" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckTheOrdersPrices -->
+      </class> <!-- myTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
